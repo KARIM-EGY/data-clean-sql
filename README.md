@@ -1,4 +1,4 @@
-This raw data for laid off empolyee for serval companies with the their funds \n
+This raw data for laid off empolyee for serval companies with the their funds 
 i cleaned this data with MySQL 
       1- remove duplicates
       2- standrdization of the data
